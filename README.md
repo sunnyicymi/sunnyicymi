@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sunny Kumar</h1>
 <h3 align="center">I'm a Full-Stack Engineer who loves using technology to solve real business problems. I believe in leveraging the latest tech to create impactful solutions and continuously learning new trends to stay ahead.</h3>
 
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnyicymi&label=Profile%20views&color=0e75b6&style=flat" alt="sunnyicymi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunnyicymi" alt="sunnyicymi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+-->
 
 - 🔭 I’m currently working on [Stacknforge My SASS](https://stacknforge.com)
 
