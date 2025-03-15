@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sunny Kumar</h1>
-<h3 align="center">I'm a Full-Stack Engineer who loves using technology to solve real business problems. I believe in leveraging the latest tech to create impactful solutions and continuously learning new trends to stay ahead.</h3>
+<h1>Hi 👋, I'm Sunny Kumar</h1>
+<h3>I'm a Full-Stack Engineer who loves using technology to solve real business problems. I believe in leveraging the latest tech to create impactful solutions and continuously learning new trends to stay ahead.</h3>
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnyicymi&label=Profile%20views&color=0e75b6&style=flat" alt="sunnyicymi" /> </p>
